@@ -11,5 +11,5 @@ communication between the computer and Arduino. The
 face detection accuracy is enhanced by using Dlib frontal 
 face detector instead of Haar Cascades algorithm.
 # Work Proofs
-Google drive link : https://drive.google.com/file/d/1q_8hfElyI8n5vPFC601bvVij-8W7-5tH/view?usp=sharing
+Google drive link : https://drive.google.com/file/d/1q_8hfElyI8n5vPFC601bvVij-8W7-5tH/view?usp=sharing             
 Report link : https://drive.google.com/file/d/1BVtG3wh6jm702kF6mhZZA-qRFlhHm5o9/view?usp=sharing
